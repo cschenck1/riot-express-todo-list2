@@ -11,9 +11,12 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "constantinople": "^3.1.2",
     "express": "^4.14.0",
     "jade": "^1.11.0",
+    "jstransformer": "^1.0.0",
     "node-cmd": "^3.0.0",
-    "node-ssh": "^5.1.2"
+    "node-ssh": "^5.1.2",
+    "pug": "^2.0.3"
   }
 }
